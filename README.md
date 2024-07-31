@@ -32,4 +32,4 @@ for software engineering students and professionals.
 
 | [[docx] Manual with algoritms & flowcharts & explanations](https://docs.google.com/document/d/1d3Tv7cvTdLVpM5Piy40Ysve1zZHx6vz3/edit?usp=drive_link&ouid=113751677932979310082&rtpof=true&sd=true) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                  ![image](https://github.com/user-attachments/assets/bc2b7a79-63e8-4705-9928-8d789f302ca9)|
+| ![image](https://github.com/user-attachments/assets/bc2b7a79-63e8-4705-9928-8d789f302ca9)                                                                                                          |
