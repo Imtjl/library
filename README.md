@@ -13,7 +13,7 @@ for software engineering students and professionals.
 
 | [[pdf] Andrew S. Tanenbaum - Modern Operating Systems](https://drive.google.com/file/d/1p1Sqf1tYJHFISnZkjFYcehDoOuiJ8ORJ/view?usp=sharing) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                            |
+| ![image](https://github.com/user-attachments/assets/4c30ae0f-780c-432d-8c08-380637b2be92)                                                  |
 
 ## Software engineering 💻
 
