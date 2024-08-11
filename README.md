@@ -9,6 +9,12 @@ for software engineering students and professionals.
 | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![image](https://github.com/Imtjl/Books/assets/43885024/c73e5316-bec4-4bba-a497-c2cf0d5e2bf9)                                               | ![image](https://github.com/Imtjl/Books/assets/43885024/b3e73059-6e40-41a9-95d6-1c035ccefd2d)                                                      |
 
+## Operating systems
+
+| [[pdf] Andrew S. Tanenbaum - Modern Operating Systems](https://drive.google.com/file/d/1p1Sqf1tYJHFISnZkjFYcehDoOuiJ8ORJ/view?usp=sharing) |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                                                            |
+
 ## Software engineering 💻
 
 | [[pdf] The mythical man-month - Essays on Software Engineering by Frederick P. Brooks, Jr.](https://drive.google.com/file/d/1IUCM-_fxkMaKE0j3LKyBAkuoEpLIGgz4/view?usp=sharing) |
