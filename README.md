@@ -22,6 +22,13 @@ for software engineering students and professionals.
 |                                                        [wiki link](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)                                                        |
 |                                            ![image](https://github.com/user-attachments/assets/7300d713-ded8-46e4-bc17-481f75f113d1)                                            |
 
+
+## Inverview prep
+
+|[[pdf] Gayle Laakmann Mcdowell - Cracking the Coding Interview](https://drive.google.com/file/d/1lCnIEkv-ekllAIp7J92gk8zy9hj2GQXT/view?usp=sharing)|
+|-|
+|![image](https://github.com/user-attachments/assets/bc827b80-630d-413b-973e-52961ef7a4e3)|
+
 ## Postgres 🐘
 
 | [[pdf] O'Relly - PostgreSQL Up & Running](https://drive.google.com/file/d/1dDTJkoiSLfGXC4oUPafOSKHJdJYhsOB_/view?usp=sharing) |
