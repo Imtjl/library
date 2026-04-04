@@ -1,9 +1,17 @@
-# Imtjl Library 📚
+# Imtjl Library
 
 This repository contains a collection of educational books, specifically curated
 for software engineering students and professionals.
 
-## System Design 🛠️
+## System programming
+
+| [[pdf] Jens Gustedt - Modern C](https://drive.google.com/file/d/1axN1CNi_yFTY7dfvDT1BJdhMbBnQ0K9l/view?usp=sharing)|
+|-|
+| <img width="778" height="716" alt="image" src="https://github.com/user-attachments/assets/e917405d-2782-4b15-b691-2a97a6fb45cd" /> |
+
+
+
+## System Design
 
 | [[pdf] System Design Interview – An insider's guide](https://drive.google.com/file/d/1f3V57DihaWTyWZZHNYkogbpxZYNL4btz/view?usp=drive_link) | [[pdf] System Design Interview – An Insider's Guide: Volume 2](https://drive.google.com/file/d/1GP1ve3fXZTpCtP_6UnOmOL9OxSGBmN4B/view?usp=sharing) |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +23,7 @@ for software engineering students and professionals.
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![image](https://github.com/user-attachments/assets/4c30ae0f-780c-432d-8c08-380637b2be92)                                                  |
 
-## Software engineering 💻
+## Software engineering
 
 | [[pdf] The mythical man-month - Essays on Software Engineering by Frederick P. Brooks, Jr.](https://drive.google.com/file/d/1IUCM-_fxkMaKE0j3LKyBAkuoEpLIGgz4/view?usp=sharing) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -29,19 +37,19 @@ for software engineering students and professionals.
 |-|
 |![image](https://github.com/user-attachments/assets/bc827b80-630d-413b-973e-52961ef7a4e3)|
 
-## Postgres 🐘
+## Postgres
 
 | [[pdf] O'Relly - PostgreSQL Up & Running](https://drive.google.com/file/d/1dDTJkoiSLfGXC4oUPafOSKHJdJYhsOB_/view?usp=sharing) |
 | ----------------------------------------------------------------------------------------------------------------------------- |
 | ![image](https://github.com/user-attachments/assets/48eff226-d0d3-4a4e-bd4c-ffbb942bda48)                                     |
 
-## Python 🐍
+## Python
 
 | [[pdf] O'Relly - Fluent Python](https://drive.google.com/file/d/1FcrmELz0DADVtjwvKAOX4yEHZjarJN7t/view?usp=drive_link) |
 | ---------------------------------------------------------------------------------------------------------------------- |
 | ![image](https://github.com/user-attachments/assets/9b22551b-4cb0-4a6c-8cb2-f15620c85ea9)                              |
 
-## Computational maths 🧮
+## Computational maths
 
 | [[docx] Manual with algoritms & flowcharts & explanations](https://docs.google.com/document/d/1d3Tv7cvTdLVpM5Piy40Ysve1zZHx6vz3/edit?usp=drive_link&ouid=113751677932979310082&rtpof=true&sd=true) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
